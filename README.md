@@ -8,6 +8,10 @@ Comparison is done:
 1. For different Locations
 2. For different Job domains
 
+Application Link:
+http://ec2-52-24-127-200.us-west-2.compute.amazonaws.com:3000/
+
+
 
 ## Usage
 
